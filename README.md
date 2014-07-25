@@ -21,3 +21,7 @@
 
 - DOS, MS-DOS, Windows NT
 - UNIX, UNIX-Like, Linux, BSD
+
+## 额外提示
+
+了解下“5W1H分析法”会有助于思考和完成作业。
